@@ -1,5 +1,5 @@
 # Plugin by @Mr_Dark_Prince
-#Uvindu Bro <https://t.me/UvinduBro>
+#Uvindu Bro <https://t.me/lstech>
 
 import os
 import requests
@@ -48,7 +48,7 @@ def song(client, message):
         )
         print(str(e))
         return
-    m.edit("📥 Downloading the song by @UvinduBro 📥")
+    m.edit("📥 Downloading the song by @Lasindu S Umayanga 📥")
     try:
         with youtube_dl.YoutubeDL(ydl_opts) as ydl:
             info_dict = ydl.extract_info(link, download=False)
