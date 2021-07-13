@@ -30,4 +30,4 @@ The easiest way to deploy this Song Bot  <br><br>
 
 ### Developers:
 
-[@UvinduBro](https://t.me/Uvindu_Bro)
+[@Lasindu](https://t.me/lstech)
