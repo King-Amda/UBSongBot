@@ -1,4 +1,4 @@
-#Uvindu Bro <https://t.me/UvinduBro>
+#LasinduSenash <https://t.me/Lasindusenash>
 
 from pyrogram.types.bots_and_keyboards import reply_keyboard_markup
 from JESongBot.plugins import *
