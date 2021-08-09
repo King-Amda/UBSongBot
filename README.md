@@ -30,4 +30,8 @@ The easiest way to deploy this Song Bot  <br><br>
 
 ### Developers:
 
-[@Lasindu](https://t.me/lstech)
+![Uvindu Bro](https://github.com/UvinduBro.png?size=100)
+
+### Editor
+
+![King Amda ](https://github.com/King-Amda.png?size=100)
